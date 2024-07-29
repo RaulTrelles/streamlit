@@ -9,7 +9,7 @@ today = datetime.date.today()
 year = today.year
 
 st.set_page_config(
-    page_title="Paguina de ventas tiendas Tech", 
+    page_title="Paguina de ventas tiendas  -  Tech", 
     layout="wide", 
     page_icon="🦈",
     initial_sidebar_state="expanded"
